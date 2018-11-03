@@ -152,7 +152,7 @@ public class AuctionController {
 		}
 		
 		// 사진 저장 경로 설정
-		String root = multi.getSession().getServletContext().getRealPath("/");
+		String root = multi.getSession().getServletContext().getRealPath(File.separator);
 		
 		String path = root + "resources"+File.separator+"thumbnail";
 		String newFileName = ""; // 업로드 되는 파일명

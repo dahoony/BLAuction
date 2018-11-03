@@ -17,11 +17,11 @@
 언어
 >+ Java 1.8  
 >+ Spring Framework : 4.2.5  
->+ web3.js  
 >+ Html5, Javascript, CSS3.0  
 <br/>
 
 오픈소스 라이브러리
+>+ web3.js  
 >+ Jquery : 3.3.1  
 >+ Bootstrap : 3.3.7  
 >+ JSTL,EL  
@@ -47,6 +47,7 @@ IDE
 
 AWS
 >+ Elastic Beanstalk Instance
+>+ RDS(oracle)
 <br/>
 
 ### 주요 기능
@@ -58,4 +59,6 @@ AWS
 >+ 경매 검색
 >+ 입찰, 낙찰 경매 리스트 확인
 >+ 송금, 수금, 환불
-
+>+ 판매자 페이지(판매자 정보, 후기 리스트, 판매 리스트)
+>+ 회원 등급
+>+ 관리자 페이지(모든 경매, 입찰, 회원 정보 확인 / 회원 등급 측정)
